@@ -1,0 +1,25 @@
+20, Nolan Sisters 1979
+20, t:Wroclaw Uniwersity i:Konigliche
+10, b:Californication i:1999
+10, united nations security
+10, t:Burton Agnes c:Grade I listed houses i:Burton Agnes
+10, t:Wave S8500 i:bada c:Mobile phones introduced in 2010
+20, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+10, b:Speed of light c:Concepts in physics
+20, t:NFL quarterbacks b:passer rating
+10, Manny Puig
+5, b:William Owen c:English songwriters
+10, b:St Pancras t:Underground
+10, Combat School
+10, 2005 earthquake
+5, b:Genie Awards i:1987
+5, b:Mask of light i:2003
+20, t:Fuaamotu i:Nukualofa
+10, b:Prisoner of Azkaban i:2004
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik
