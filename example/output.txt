@@ -1,5 +1,3 @@
-
-
 1659459 Nolan Sisters (album)
 8673447 Brothers and Sisters (1979 TV series)
 8322358 The Nolan Sisters (album)
@@ -20,7 +18,7 @@
 9527882 List of family relations in the NHL
 1381936 List of Soul Train episodes
 3072600 I'm In the Mood for Dancing
-6.066383123397827 0.303319525718689
+3.673084259033203 0.18365421295166015
 
 112641 Bergson Slask Wroclaw
 1196043 Siege of Wroclaw
@@ -42,7 +40,7 @@
 4280559 Bishopric of Wroclaw
 4565232 Janowek, Wroclaw County
 51442 Jurczyce, Wroclaw County
-0.26798200607299805 0.013399505615234375
+0.23278570175170898 0.011639285087585449
 
 1476673 Californication (album)
 977538 List of Top 25 albums for 1999 in Australia
@@ -54,7 +52,7 @@
 7817372 Californication Tour
 2341351 Californication (song)
 9622296 Around the World (Red Hot Chili Peppers song)
-3.655789375305176 0.36557950973510744
+2.4916810989379883 0.24916810989379884
 
 9678775 List of United Nations Security Council Resolutions 901 to 1000
 9678776 List of United Nations Security Council Resolutions 801 to 900
@@ -66,7 +64,7 @@
 9678812 List of United Nations Security Council Resolutions 601 to 700
 2837564 List of United Nations Security Council Resolutions 1901 to 2000
 3267467 List of United Nations Security Council Resolutions 1701 to 1800
-84.59869289398193 8.459870314598083
+15.922773361206055 1.5922773361206055
 
 3230274 Burton Agnes Manor House
 3422320 Burton Agnes Hall
@@ -78,7 +76,7 @@
 9804219 Bylaugh Hall
 4125503 Somerville College, Oxford
 3686563 Gawsworth Old Hall
-34.066521883010864 3.406652808189392
+13.167763471603394 1.3167763471603393
 
 5983426 Bada
 4926906 Mobile operating system
@@ -90,7 +88,7 @@
 548617 Apache Wave
 2279183 Korean Wave
 2896010 Symbian
-19.432372093200684 1.94323832988739
+6.261433839797974 0.6261433839797974
 
 9278547 Taskmaster (comics)
 1417735 Bushman (comics)
@@ -112,7 +110,7 @@
 4111448 Vibranium
 6372186 Wild Pack
 3267015 Profile (Marvel Comics)
-13.046443223953247 0.6523224472999573
+4.178207159042358 0.20891035795211793
 
 4108775 Speed of light
 4107612 Special relativity
@@ -124,7 +122,7 @@
 9797642 Time dilation
 4106957 Refraction
 4106506 Quantum mechanics
-9.825050830841064 0.9825060129165649
+4.346735239028931 0.43467352390289304
 
 3546792 List of NFL quarterbacks who have posted a perfect passer rating
 5550281 List of NFL quarterbacks who have posted a passer rating of zero
@@ -146,7 +144,7 @@
 1488223 1982–83 NFL playoffs
 9296764 Madden NFL
 1575550 1976–77 NFL playoffs
-7.696449041366577 0.38482285737991334
+3.5158727169036865 0.17579363584518432
 
 3422750 Manny Puig
 906952 Puig
@@ -158,14 +156,14 @@
 7188553 Monica Puig
 3396136 Handy Manny
 9368580 Josep Puig i Cadafalch
-0.5262057781219482 0.052621316909790036
+0.2344670295715332 0.02344670295715332
 
 4115781 Robbie Williams
 8034796 List of English people
 9198946 Gary Barlow
 9298682 Take That
 1613774 Thomas (surname)
-16.271216869354248 3.254245233535767
+7.006215810775757 1.4012431621551513
 
 9751161 List of London Underground stations
 747670 Timeline of the London Underground
@@ -177,7 +175,7 @@
 9508789 Wikipedia:Featured list candidates/List of London Underground stations/archive1
 7571641 London Underground rolling stock
 2499746 London Underground 1967 Stock
-7.533136606216431 0.7533143281936645
+3.3107821941375732 0.3310782194137573
 
 3263834 United States Air Force Combat Rescue School
 9262640 85 Combat Flying School SAAF
@@ -189,7 +187,7 @@
 768812 Combat School (TV Series)
 9262639 No. 85 Combat Flying School SAAF
 7911591 85 Combat Flying School
-14.120784759521484 1.412079119682312
+5.38833475112915 0.538833475112915
 
 4764457 List of earthquakes in 2005
 2552849 Wikipedia:Articles for deletion/Singaporean response to 2005 Kashmir earthquake
@@ -201,21 +199,21 @@
 9548277 2005 Hindu Kush earthquake
 1518132 2005 Nias–Simeulue earthquake
 2372217 2005 Miyagi earthquake
-10.492393493652344 1.0492400407791138
+4.87504768371582 0.487504768371582
 
 8658470 Night Zoo
 2550965 Dina Pathak
 4130842 All My Children
 1504407 8th Genie Awards
 4131092 Dan Castellaneta
-10.30685567855835 2.061372423171997
+4.821055889129639 0.9642111778259277
 
 2083074 La Parka
 927571 Ray Mendoza
 2142264 E's
 3842919 Bionicle (video game)
 8842549 KBS Drama Awards
-11.023864269256592 2.204774808883667
+4.788222074508667 0.9576444149017334
 
 7805032 Fuaʻamotu Airport
 4128244 Nukuʻalofa
@@ -237,7 +235,7 @@
 865472 MV Princess Ashika
 3824032 Tonfön
 2089673 The Barbarian (wrestler)
-0.719761848449707 0.03598848581314087
+0.32134437561035156 0.01606721878051758
 
 2334161 Harry Potter
 3794838 58th British Academy Film Awards
@@ -249,19 +247,19 @@
 1559992 Richard Griffiths
 9157924 The Terminal
 2181868 2005 MTV Movie Awards
-8.108280181884766 0.8108287334442139
+4.1988770961761475 0.41988770961761473
 
 5446669 11th Satellite Awards
 4310028 Alan Moore bibliography
 2279675 Maniots
-14.417016506195068 4.8056747118632
+6.340880632400513 2.1136268774668374
 
 9761182 Young's modulus
 4700074 Youngs' Modulus
 4254887 Young modulus
 3820735 Young's Modulus
 8566847 Youngs Modulus
-5.699795722961426 1.1399605751037598
+3.295485019683838 0.6590970039367676
 
 4108775 Speed of light
 4107612 Special relativity
@@ -273,7 +271,7 @@
 9797642 Time dilation
 4106957 Refraction
 4106506 Quantum mechanics
-11.544020652770996 1.1544028043746948
+4.558292865753174 0.4558292865753174
 
 6295883 Wikipedia:Contributor copyright investigations/Darius Dhlomo/Created articles list
 2345173 1982 Prince Edward Island general election
@@ -295,7 +293,7 @@
 1482569 1977 Ontario general election
 2608207 Martha Hughes Cannon
 2345175 1979 Prince Edward Island general election
-7.727035999298096 0.38635228872299193
+4.20965313911438 0.210482656955719
 
 9379812 Taxicab number
 9379487 1729 (number)
@@ -327,7 +325,7 @@
 6504000 Hawaii Five-O (1968 TV series, season 2)
 9759543 Euler pseudoprime
 636312 Taxis in India
-0.4422121047973633 0.014740729331970214
+0.28177404403686523 0.009392468134562175
 
 9278547 Taskmaster (comics)
 1417735 Bushman (comics)
@@ -379,7 +377,7 @@
 5028617 James Adomian
 3622486 Adam Cayton-Holland
 9370136 Wilmer Valderrama
-12.919826030731201 0.2583966779708862
+3.9852216243743896 0.07970443248748779
 
 7468451 Sudebnik of 1497
 5635098 Sudebnik of 1550
@@ -481,4 +479,4 @@
 98 Les Carter (musician)
 99 Floyd Bruce Parks
 100 Floru
-0.5819206237792969 0.005819282531738281
+0.3785364627838135 0.0037853646278381346
